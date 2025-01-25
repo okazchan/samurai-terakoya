@@ -1,0 +1,44 @@
+*,::before,*::after {
+  box-sizing: border-box;
+  text-align: center ;
+}
+
+
+#nav-pc ul {
+  display: flex;
+
+}
+#nav-pc li {
+  list-style: none;
+}
+#nav-pc a {
+  text-decoration: none;
+  margin-left: 20px;}
+
+
+#work{
+margin: 50px;
+padding: 30px;
+}
+
+
+.work-choice{
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+ 
+
+}
+
+#about-me{
+  margin: 50px;
+  padding: 30px;
+}
+
+#contact-booth{
+  margin: 50px;
+  padding: 30px;
+}
+
